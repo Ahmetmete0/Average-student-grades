@@ -1,17 +1,4 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2019-2020 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: 1. Ödev
-**				ÖĞRENCİ ADI............: Ahmet Mete DOKGÖZ
-**				ÖĞRENCİ NUMARASI.......:G191210053
-**              DERSİN ALINDIĞI GRUP...:Ikinci Ogretim C Grubu
-****************************************************************************/
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
